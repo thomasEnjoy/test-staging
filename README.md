@@ -1,4 +1,4 @@
-STAGING TEST 2
+STAGING TEST 6XS
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
